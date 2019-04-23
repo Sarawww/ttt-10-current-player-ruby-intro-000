@@ -2,7 +2,7 @@ board = []
 
 def turn_count(board)
   board.each do|count|
-    board.length 
+    turn_count = board.length 
   end
 end
 
